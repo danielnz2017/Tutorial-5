@@ -4,7 +4,7 @@
 
 1. Clone down this repository using the command 
 ``` 
-git clone https://github.com/IXXN-221/Tutorial-5
+git clone https://github.com/IXXN-Web-Design/Tutorial-5.git 
 ```
 2. Navigate to the repo then create and move to a new branch using the command 
 ```
